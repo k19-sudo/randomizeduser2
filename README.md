@@ -16,7 +16,7 @@
 ### 🛠️ Aktif Kullanılan Teknolojiler
 Aşağıdaki diller ve standartlar üzerinde modern geliştirme süreçlerini takip ediyorum:
 
-* **Sistem Programlama:** C++17 / C++20 / C++23 (Modern Standartlar)
-* **Web & Backend:** TypeScript, Go
+* **Sistem Programlama:** C ve C++17 / C++20 / C++23 (Modern Standartlar)
+* **Backend & Mikroservis:** TypeScript, Go
 
 ---
