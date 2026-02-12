@@ -1,8 +1,8 @@
 ## Projelerim & Çalışmalarım
 
-### 📅 2026 | Data Mining and Web Scraping
+### 📅 2026 | Web Scraping
 * **[scraping-zyte-books](https://github.com/k19-sudo/scraping-zyte-books)**: Typescript + Playwright ile hedef internet sitesindeki verilerin kazımı işlemi.
-
+* **[recaptcha-v2-resolver-free](https://github.com/k19-sudo/recaptcha-v2-resolver-free)**: 100% Free and locally working reCaptcha-v2 resolver via whisper model.
 ---
 
 ### 📅 2026 | C++ Projeler
